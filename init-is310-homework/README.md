@@ -11,5 +11,9 @@ git version 2.39.3 (Apple Git-145)
 3. VS Code (check image folder)
 
 4. Discord
-User : Henreee
+User - Henreee
+
+5. Hypothesis
+User - henRot
+I have installed the chrome extension 
 
